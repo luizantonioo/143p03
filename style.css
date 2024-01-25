@@ -1,0 +1,16 @@
+.heading{
+    font-size: 23px; /*tamanho da fonte*/
+    width: 100%; /*largura*/
+    margin: 0px; /*margem*/
+}
+.note{
+    font-size: 15px; 
+    color: red; /*cor da fonte*/
+}
+body{
+    background-size: cover; /*tamanho do plano de fundo*/
+}
+.box{
+    box-shadow:5px 5px blue;
+    box-shadow:5px 5px red;
+}
